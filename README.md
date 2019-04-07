@@ -1,4 +1,7 @@
 # Wonszrzeczny/SnakeReplicaCMD
+
+Sterowanie WSAD
+
 JestNiebezpieczny
 Czasem trzeba uruchomic exe jeszcze raz jesli wonsz porusza sie nienaturalnie wolno. 
 Generalnie basico amico mio. Zarys, szkic - napisany przed snem tylko po to, zeby sprawdzic czy nie bedzie sprawial problemow jako pierwszy projekt na zajeciach;
