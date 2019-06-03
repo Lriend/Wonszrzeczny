@@ -11,3 +11,5 @@ TodoKiedystamJakznajdewolne30minutibedziemisiechcialolubbedemusial:
 Punkty, konfiguracja ustawien poczatkowych za pomoca menu, dostosowywane: predkosc wonsza, ilosc owocow, wielkosc mapy, jakis zapis najlepszych wynikow,mozliwosc wyswietlenia rankingu, pauza, do poprawy wyswietlanie coby nie skakalo oraz zrobienie sterowania w pelni asynchronicznego(w sensie, zbieranie inputu w trakcie calego while'a lacznie z aktualnym sleepem). NNNNo. Chyba tyle jak na razie. Dobranoc
 
 PS: Jakby co Ricardo&AdamChick to exek nie zawiera wirusa. Chyba mi ufacie, nie? XD
+
+EDIT. NIE ZNALAZLEM KRZTY CHECI. DO ARCHIWUM!!!
